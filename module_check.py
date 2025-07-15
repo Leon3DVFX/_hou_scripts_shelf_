@@ -1,7 +1,6 @@
 #module_check.py
 #Author: Leon3DVFX
 #License: MIT
-
 import hou 
 def is_module_importable(m_name):
     try:
